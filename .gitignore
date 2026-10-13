@@ -1,0 +1,17 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# IDE and editor files
+
+.vscode/
+.idea/
