@@ -1,0 +1,7 @@
+name = str(input("Hello There,What's your name: "))
+place = str(input("Which place are you from : "))
+print(name,"how's the wheather in ", place,'?')
+age = int(input("How old are you :"))
+print("Good to know you are",age,"years old")
+print("Thanks for letting me know about you")
+print("Have a good day \n😊")
